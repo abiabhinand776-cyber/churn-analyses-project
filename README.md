@@ -18,14 +18,11 @@ matplotlib
 
 seaborn
 
-plotly (optional)
 Key Steps in EDA:
 
 Data cleaning
 
 Handling missing values
-
-Feature engineering (if any)
 
 Outlier detection
 
@@ -67,4 +64,3 @@ Python (Colab)	Data cleaning, EDA, preprocessing
 Pandas, NumPy	Data manipulation
 Matplotlib, Seaborn	Visualization
 Power BI	Dashboard and reporting
-GitHub	Version control & project sharing
